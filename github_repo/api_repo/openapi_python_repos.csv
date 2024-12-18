@@ -1,0 +1,31 @@
+language,repo_name,repo_owner,repo_url,repo_description
+python,ChatGPT,EthanForAi,https://github.com/EthanForAi/ChatGPT,ChatGPT
+python,loom,socketteer,https://github.com/socketteer/loom,Multiversal tree writing interface for human-AI collaboration
+python,chat-gpt-quine,fullthom,https://github.com/fullthom/chat-gpt-quine,
+python,tg_bing_dalle,yihong0618,https://github.com/yihong0618/tg_bing_dalle,Telegram bing bot DALL-E 3
+python,MIGPT,Afool4U,https://github.com/Afool4U/MIGPT, 基于API流式对话的低延迟版MIGPT
+python,etc,xiaket,https://github.com/xiaket/etc,configuration files on a Mac
+python,ai.py,reorx,https://github.com/reorx/ai.py,A single-file Python script that interacts with ChatGPT API in the command-line.
+python,narrate,vateseif,https://github.com/vateseif/narrate,Code Implementation for paper NARRATE
+python,BusinessGPT,elebumm,https://github.com/elebumm/BusinessGPT,
+python,voice-chat-ai,bigsk1,https://github.com/bigsk1/voice-chat-ai,"🎙️ Speak with AI - Run locally using Ollama, OpenAI or xAI - Speech uses XTTS, OpenAI or ElevenLabs"
+python,ml-entity-deduction-arena,apple,https://github.com/apple/ml-entity-deduction-arena,
+python,streaming-completion-flask-react,cbora,https://github.com/cbora/streaming-completion-flask-react,"Streaming Chat Interface with OpenAI's GPT-3.5, Flask, and React: A project showcasing real-time streaming of AI chat completions using a Flask backend and React frontend."
+python,Graph-LLM,CurryTang,https://github.com/CurryTang/Graph-LLM,Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs
+python,net-textorial,dannywade,https://github.com/dannywade/net-textorial,A TUI app for network engineers to learn about parsing data from network devices
+python,tdd-machine,nitsanavni,https://github.com/nitsanavni/tdd-machine,A ChatGPT-Powered TDD Machine
+python,dotemacs,grantjenks,https://github.com/grantjenks/dotemacs,
+python,gsh,john-h-k,https://github.com/john-h-k/gsh,A GPT-4 based shell language
+python,Python,freeload101,https://github.com/freeload101/Python,Various Python scripts
+python,ChatGPT-Web,LiangYang666,https://github.com/LiangYang666/ChatGPT-Web,使用GPT-3.5 API创建的ChatGPT聊天页面，支持云部署，多用户使用，多对话管理，公式显示，流式动态显示，windows和linux均可极简部署，网页版 html python flask
+python,Knowledge-Background-Vector-Warehouse,CL-lau,https://github.com/CL-lau/Knowledge-Background-Vector-Warehouse,
+python,chatgpt-menu-installer,Nimdy,https://github.com/Nimdy/chatgpt-menu-installer,ChatGPT UI Installer based on Mckay Wrigley Chat UI
+python,img-cleaner,TranstarIndustries,https://github.com/TranstarIndustries/img-cleaner,
+python,test,Cyril-19,https://github.com/Cyril-19/test,
+python,Compliment_Bot,Ayush1124,https://github.com/Ayush1124/Compliment_Bot,Discord bot that uses NLP to create custom compliments
+python,portfolio,metamoq,https://github.com/metamoq/portfolio,this is a portfolio for a work
+python,Med_speak,jaymin0029,https://github.com/jaymin0029/Med_speak,
+python,OpenAI_Interfacer,manav1411,https://github.com/manav1411/OpenAI_Interfacer,A program that allows the user to interface with the gpt4 API intuitively.
+python,commit-explainer,seasonedfish,https://github.com/seasonedfish/commit-explainer,Have git commits explained with GPT.
+python,TelegramChatGPTBot,sinenko,https://github.com/sinenko/TelegramChatGPTBot,The simplest Telegram bot that forwards user messages to the OpenAI API ChatGPT and outputs the received responses.
+python,FTG-Modules,D4n13l3k00,https://github.com/D4n13l3k00/FTG-Modules,FTG-Modules for FTG & GeekTG Userbot

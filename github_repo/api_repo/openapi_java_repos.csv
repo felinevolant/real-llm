@@ -1,0 +1,31 @@
+language,repo_name,repo_owner,repo_url,repo_description
+java,chatgpt-java,PlexPt,https://github.com/PlexPt/chatgpt-java,"ChatGPT Java SDK。支持 GPT-4o、 GPT4 API。开箱即用。An unofficial Java SDK for seamless integration with ChatGPT's GPT-3.5 and GPT-4 APIs. Ready-to-use, simple setup, and efficient for building AI-powered applications."
+java,burpgpt,aress31,https://github.com/aress31/burpgpt,A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type.
+java,smalltalk,tinystruct,https://github.com/tinystruct/smalltalk,A tinystruct-based chat module which integrated with @OpenAI GPT-3 / 3.5-turbo / ChatGPT. @tinystruct
+java,javasrc,IanDarwin,https://github.com/IanDarwin/javasrc,Ian's Collected code examples from the O'Reilly Java Cookbook & elsewhere
+java,myrobotlab,MyRobotLab,https://github.com/MyRobotLab/myrobotlab,Open Source Java Framework for Robotics and Creative Machine Control
+java,MtgDesktopCompanion,nicho92,https://github.com/nicho92/MtgDesktopCompanion,Cards manager for magic the gathering
+java,jbang-catalog,jbangdev,https://github.com/jbangdev/jbang-catalog,Catalog of jbang scripts
+java,openaidemo,kousen,https://github.com/kousen/openaidemo,Demo of how access the OpenAI API using Java 17
+java,chatgpt-springboot-service,zccbbg,https://github.com/zccbbg/chatgpt-springboot-service,是一个基于Springboot的一个后端服务，用于实时接收chatGPT的消息，并通过websocket的方式实时反馈前端。本项目还可以助你将GPT机器人集成到钉钉群聊中，通过@机器人进行聊天交互。
+java,ChatGPTForTelegram,kylelin1998,https://github.com/kylelin1998/ChatGPTForTelegram,目前机器人基于ChatGPT进行开发  使用机器人可以让你轻松进行对话， 后续机器人的更新升级一个命令即可搞定， 无需再上服务器进行升级机器人
+java,ChatGPT-for-Java,Apress,https://github.com/Apress/ChatGPT-for-Java,Original source code for ChatGPT for Java by Bruce Hopkins
+java,openai-java,forestwanglin,https://github.com/forestwanglin/openai-java,OpenAi GPT API for Java. Including all API from OpenAI except deprecated. It especially includes stream client and jtokkit with function calculation. Including Baidu AI.
+java,DNAnalyzer,VerisimilitudeX,https://github.com/VerisimilitudeX/DNAnalyzer,Revolutionizing DNA analysis and making it accessible to all through innovative ML-powered analysis and interpretive tools.
+java,akka_streams_tutorial,pbernet,https://github.com/pbernet/akka_streams_tutorial,"A collection of runnable and self-contained examples inspired by various akka-streams (pekko-streams), Alpakka (Pekko connectors) and akka-http (pekko-http) docs, tutorials and blogs"
+java,patterns-and-machine-learning-foundations-for-java-developers-5950002,LinkedInLearning,https://github.com/LinkedInLearning/patterns-and-machine-learning-foundations-for-java-developers-5950002,This repo is for linkedin learning course: Patterns and Machine Learning Foundations for Java Developers
+java,customized-chatgpt,bigcyy,https://github.com/bigcyy/customized-chatgpt,基于ChatGpt，Java，SpringBoot，Vue，Milvus向量数据库的定制化聊天Web demo
+java,ChatGPT-Android-app,SibanandaKuanr,https://github.com/SibanandaKuanr/ChatGPT-Android-app,"🤖 Say hello to Chatbot AI, the innovative chatbot that allows you to easily ask questions and receive accurate and informative responses in real-time. Whether you need help with everyday tasks, want to learn something new, or just want to chat, Chatbot AI has got you covered."
+java,openai-api,elmar-brauch,https://github.com/elmar-brauch/openai-api,
+java,com.dotcms.ai,dotCMS,https://github.com/dotCMS/com.dotcms.ai,
+java,hello-gpt,danvega,https://github.com/danvega/hello-gpt,Java + Open AI GPT-4o
+java,Java_LLM_lesson--1,Smitlea,https://github.com/Smitlea/Java_LLM_lesson--1, a series of teaching lesson how to use java combine with AIGC
+java,Games,jeremyjia,https://github.com/jeremyjia/Games,Home Page Link:
+java,Tg_chatGPT_Bot,DmPanf,https://github.com/DmPanf/Tg_chatGPT_Bot,Test chatGPT connection Bot
+java,CFsolution,Istahak,https://github.com/Istahak/CFsolution,CF_solution
+java,openai4j,break-the-build,https://github.com/break-the-build/openai4j,
+java,speechai,habuma,https://github.com/habuma/speechai,"Sample using Spring AI, Whisper, and TTS to enable talking to a webpage"
+java,org.idempiere.chatGPT,pshepetko,https://github.com/pshepetko/org.idempiere.chatGPT,chatGPT and OpenSource iDempiere ERP Business Suite Integration Plugin
+java,minecraft-gpt-god-plugin,YOUSY0US3F,https://github.com/YOUSY0US3F/minecraft-gpt-god-plugin,
+java,ramadda,geodesystems,https://github.com/geodesystems/ramadda,RAMADDA Data Repository
+java,AI,vishalmysore,https://github.com/vishalmysore/AI,"Explore the forefront of AI innovation with this dedicated repository, housing cutting-edge examples and implementations. Dive into the latest advancements, stay ahead with groundbreaking applications, and harness the power of state-of-the-art models and techniques. Elevate your understanding of artificial intelligence through hands-on work"

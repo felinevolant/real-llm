@@ -1,0 +1,31 @@
+language,repo_name,repo_owner,repo_url,repo_description
+kotlin,maestro,mobile-dev-inc,https://github.com/mobile-dev-inc/maestro,Painless Mobile UI Automation
+kotlin,CatchUp,ZacSweers,https://github.com/ZacSweers/CatchUp,An app for catching up on things.
+kotlin,Stable-Diffusion-Android,ShiftHackZ,https://github.com/ShiftHackZ/Stable-Diffusion-Android,Stable Diffusion AI client app for Android
+kotlin,chatgpt-android,skydoves,https://github.com/skydoves/chatgpt-android,📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
+kotlin,MyBrain,mhss1,https://github.com/mhss1/MyBrain,"All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks."
+kotlin,openai-kotlin,aallam,https://github.com/aallam/openai-kotlin,OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
+kotlin,ChatWaifu_Mobile,Voine,https://github.com/Voine/ChatWaifu_Mobile,移动版二次元 AI 老婆聊天器
+kotlin,gpt_mobile,Taewan-P,https://github.com/Taewan-P/gpt_mobile,"Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose."
+kotlin,xef,xebia-functional,https://github.com/xebia-functional/xef,"Building applications with LLMs through composability, in Kotlin, Scala, ..."
+kotlin,orbital,orbitalapi,https://github.com/orbitalapi/orbital,"Orbital automates integration between data sources (APIs, Databases, Queues and Functions).  BFF's, API Composition and ETL pipelines that adapt as your specs change."
+kotlin,mirai-openai-plugin,cssxsh,https://github.com/cssxsh/mirai-openai-plugin,Mirai Console OpenAI ChatBot 插件
+kotlin,compose-chatgpt-kotlin-android-chatbot,lambiengcode,https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot,Compose ChatGPT Kotlin - Android Chatbot using Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI's GPT-3 API. Allow stream response from ChatGPT API.
+kotlin,shire,phodal,https://github.com/phodal/shire,"Shire - AI Coding Agent Language (智能研发智能体语言), which can enables communication between an LLM and control IDE for automated programming."
+kotlin,GPT-Assistant,sunshine0523,https://github.com/sunshine0523/GPT-Assistant,GPT助手：让GPT来操作你的Android设备！GPT Assistant: Let GPT operate your Android device!
+kotlin,ai-commits-intellij-plugin,Blarc,https://github.com/Blarc/ai-commits-intellij-plugin,AI Commits for IntelliJ based IDEs/Android Studio.
+kotlin,ChatGPT-Java-API,CJCrafter,https://github.com/CJCrafter/ChatGPT-Java-API,"Unofficial Java API supporting Chat, Assistants, and more!"
+kotlin,ai-mentor-android,Gear61,https://github.com/Gear61/ai-mentor-android,"Clean, simple Android app to talk with ChatGPT. 100% free and ad-free."
+kotlin,kotbot,Heapy,https://github.com/Heapy/kotbot,Bot for Kotlin chats in telegram.
+kotlin,OpenAI-Dall-E-2,muratozturk5,https://github.com/muratozturk5/OpenAI-Dall-E-2,Kotlin DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
+kotlin,speak-gpt,AndraxDev,https://github.com/AndraxDev/speak-gpt,Your personal voice assistant based on OpenAI ChatGPT.
+kotlin,Issa-Recipe-App,BrianJr03,https://github.com/BrianJr03/Issa-Recipe-App,A simple recipe app powered by ChatGPT
+kotlin,eyes-android,0m364,https://github.com/0m364/eyes-android,android related stuff that isn't stand alone 
+kotlin,chatgpt-integration,tshenolo,https://github.com/tshenolo/chatgpt-integration,This repository provides an example integration guide for incorporating ChatGPT into an existing application
+kotlin,Issa-Chat-App,BrianJr03,https://github.com/BrianJr03/Issa-Chat-App,A simple way to chat with ChatGPT on Android
+kotlin,NamingFox,kisa002,https://github.com/kisa002/NamingFox,Naming Fox gives names to variables and functions.
+kotlin,openai-jvm,joshuabrandes,https://github.com/joshuabrandes/openai-jvm,Provides a JVM based client for the OpenAI API
+kotlin,WSA-Utopia-Discord-Bot,Waterball-Software-Academy,https://github.com/Waterball-Software-Academy/WSA-Utopia-Discord-Bot,【水球軟體學院：烏托邦計畫】一起合力建立一個高效率的自動化新型態軟體社群啊！！！
+kotlin,refactor-gpt,lauvsong,https://github.com/lauvsong/refactor-gpt,✨ Super simple IntelliJ-based plugin to refactor selected code using ChatGPT ✨
+kotlin,lmos-router,lmos-ai,https://github.com/lmos-ai/lmos-router,Efficient Agent Routing with SOTA Language and Embedding Models.
+kotlin,intellij-aicoder,SimiaCryptus,https://github.com/SimiaCryptus/intellij-aicoder,Coding tools for Intellij using the OpenAI API

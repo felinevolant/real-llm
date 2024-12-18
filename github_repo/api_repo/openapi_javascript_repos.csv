@@ -1,0 +1,31 @@
+language,repo_name,repo_owner,repo_url,repo_description
+javascript,openai-scf-proxy,Ice-Hazymoon,https://github.com/Ice-Hazymoon/openai-scf-proxy,使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理
+javascript,minecraft-openai,manekinekko,https://github.com/manekinekko/minecraft-openai,Controlling a Minecraft NPC using OpenAI 🤖
+javascript,interactive-minecraft-npcs,microsoft,https://github.com/microsoft/interactive-minecraft-npcs,
+javascript,alexa-chatgpt,Joao208,https://github.com/Joao208/alexa-chatgpt,"This is an Alexa bot developed with the help of OpenAI's ChatGPT language model. With it, you can converse naturally with Alexa, answering questions and performing tasks based on its language training."
+javascript,bot,aicombinator,https://github.com/aicombinator/bot,GPT-powered bot that can automate complex online tasks using both the web browser and API calls.
+javascript,chatapi,david-haerer,https://github.com/david-haerer/chatapi,💭 Chat with AI via API
+javascript,GPT-google-sheets,MoritzLaurer,https://github.com/MoritzLaurer/GPT-google-sheets,Code and documentation for running generative LLMs like ChatGPT or GPT4 in google sheets without any coding knowledge. Transform unstructured text to structured data.
+javascript,openai-api-proxy,easychen,https://github.com/easychen/openai-api-proxy,一行Docker命令部署的 OpenAI/GPT API代理，支持SSE流式返回、腾讯云函数 。Simple proxy for OpenAi api via a one-line docker command
+javascript,sheets-llm,nicucalcea,https://github.com/nicucalcea/sheets-llm,Use Large Language Models (LLM) in Google Sheets
+javascript,ngoprek-llm,hijra-engineering,https://github.com/hijra-engineering/ngoprek-llm,
+javascript,node-red-contrib-openai,hkjang,https://github.com/hkjang/node-red-contrib-openai,
+javascript,GPT_Google_Sheets_Integration,nibukdk,https://github.com/nibukdk/GPT_Google_Sheets_Integration,
+javascript,TabChi,pesarkhobeee,https://github.com/pesarkhobeee/TabChi,Embrace the Power of Passion and Pleasure: Customize your new tab page to reflect your personal vision.
+javascript,wAI,sr2echa,https://github.com/sr2echa/wAI,
+javascript,react-native-chatgpt-tutorial,hoaphantn7604,https://github.com/hoaphantn7604/react-native-chatgpt-tutorial,Try Build an App ChatGPT using React Native.
+javascript,code-jxck-pack,Jxck,https://github.com/Jxck/code-jxck-pack,vscode extension pack for Jxck
+javascript,create-astradb-mongoose-app,datastax,https://github.com/datastax/create-astradb-mongoose-app,
+javascript,ZoomeyeGPT,knownsec,https://github.com/knownsec/ZoomeyeGPT,
+javascript,kodibot,firatkiral,https://github.com/firatkiral/kodibot,Local and Offline AI Chatbot App for Desktop
+javascript,simple-dalle-ui,bakkot,https://github.com/bakkot/simple-dalle-ui,a simple webpage to wrap OpenAI's image-generator API
+javascript,linebot-gpt,tropicbird,https://github.com/tropicbird/linebot-gpt,
+javascript,chatGptHelloWorld,scripting,https://github.com/scripting/chatGptHelloWorld,A browser-based JavaScript app that finds out who Bull Mancuso is. 
+javascript,CeLLM,suvansh,https://github.com/suvansh/CeLLM,applying LLM prompting to spreadsheets
+javascript,bot-de-qualiter,dddware,https://github.com/dddware/bot-de-qualiter,Get new videos from YouTube channels on Discord
+javascript,FastDigest,built-by-as,https://github.com/built-by-as/FastDigest,summarize HackerNews comments using AI and LLMs
+javascript,wordflow-doc,poloclub,https://github.com/poloclub/wordflow-doc,AI Writing Assistant Google Doc Add-on
+javascript,assistants,johnataylor,https://github.com/johnataylor/assistants,OpenAI assistants
+javascript,returnjourneyproject,aaeeragh,https://github.com/aaeeragh/returnjourneyproject,"Building community feature for ""The Return Journey "" with community features and smart social interactions between travellers "
+javascript,eyes-android,0m364,https://github.com/0m364/eyes-android,android related stuff that isn't stand alone 
+javascript,Spell-Checker,Redoxftw,https://github.com/Redoxftw/Spell-Checker,

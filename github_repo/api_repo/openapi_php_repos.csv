@@ -1,0 +1,31 @@
+language,repo_name,repo_owner,repo_url,repo_description
+php,open-ai,orhanerday,https://github.com/orhanerday/open-ai,"OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)"
+php,zentaopms,easysoft,https://github.com/easysoft/zentaopms,"Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​"
+php,php-openai-gpt-stream-chat-api-webui,qiayue,https://github.com/qiayue/php-openai-gpt-stream-chat-api-webui,不使用任何框架，php + html + css + js 原生实现 openai gpt chat 接口对接，实现流式数据传输和接收，附带简洁网页demo。
+php,ChatGPT,onekb,https://github.com/onekb/ChatGPT,ChatGPT for PHP，和简易终端实现。Using OpenAI GPT3.5 model API.
+php,GPT-API-Integration-in-HTML-CSS-with-JS-PHP,VolkanSah,https://github.com/VolkanSah/GPT-API-Integration-in-HTML-CSS-with-JS-PHP,A basic GPT conversation script designed to help you learn to interact with OpenAI's GPT technology. Includes best practices and a free security whitepaper.
+php,laravel-intelli-db,salehhashemi1992,https://github.com/salehhashemi1992/laravel-intelli-db,"Intelligent way to generate database-related Laravel ""artisan make"" components using AI"
+php,xExtension-NewsAssistant,reply2future,https://github.com/reply2future/xExtension-NewsAssistant,An extension to summarize the feeds of FreshRSS using GPT.
+php,larallama,LlmLaraHub,https://github.com/LlmLaraHub/larallama,This is version 2 of LaraChain.io ream more at https://LaraLlama.io
+php,gpt3-php,ldobreira,https://github.com/ldobreira/gpt3-php,A simple PHP wrapper for the OpenAI GPT-3 API.
+php,open-ai-api-client,webboy,https://github.com/webboy/open-ai-api-client,PHP client for the OpenAI API
+php,openai,webman-php,https://github.com/webman-php/openai,OpenAI PHP asynchronous client for workerman and webman.
+php,chat-wtf,unconv,https://github.com/unconv/chat-wtf,A ChatGPT-like chatbot with PHP and Python
+php,ai-commit,guanguans,https://github.com/guanguans/ai-commit,Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。
+php,ChatGPT-4,dirk1983,https://github.com/dirk1983/ChatGPT-4,GPT-4已正式发布，调用ChatGPT4接口需要申请，请加微信群或在项目讨论区交流创业心得吧！群内可批发账号，代充开Plus，免费的反代地址，获取网站源码，对接各种资源。欢迎各位中国的ChatGPT爱好者和创业者一起谋划点大事！
+php,ChatGPT,bladealex9848,https://github.com/bladealex9848/ChatGPT,Aplicación que te permite interactuar con la API de OpenAI y utilizar el modelo GPT-3.
+php,sentimento,ahmedash95,https://github.com/ahmedash95/sentimento,A laravel package that provides sentiment analysis capabilities using OpenAI's GPT to easily analyze text-based data and gain insight into the underlying sentiment.
+php,PHP-ChatGPT,Radulepy,https://github.com/Radulepy/PHP-ChatGPT,Connect to ChatGPT / OpenAI API using plain PHP
+php,saig-gwserver,abeiro,https://github.com/abeiro/saig-gwserver,Simple AI Gateway Skyrim Mod Gateway Server
+php,moodle-mod_maici,caiocarvalhofre,https://github.com/caiocarvalhofre/moodle-mod_maici,"Moodle AI Chat Interface, abbreviated as “MAICI” and pronounced “MAY-see” is a chat-based learning activity providing students with natural language conversation with an an AI ChatBot."
+php,hermes2pro-proxy,adrienbrault,https://github.com/adrienbrault/hermes2pro-proxy,Use Hermes-2-Pro-Mistral-7B function calling with your OpenAI API compatible code.
+php,chatgpt-telegram-bot-php,Armanidrisi,https://github.com/Armanidrisi/chatgpt-telegram-bot-php,This Is A telegram Bot created using openai api coded in php 
+php,chatgpt-php,quchuanping,https://github.com/quchuanping/chatgpt-php,chatgpt php接口对接
+php,ChatGPT-API-IM,1370533448,https://github.com/1370533448/ChatGPT-API-IM,"HTML+PHP,装上就能用的GPT猫娘（当然可以自己修改角色预定）你可以向TA灌输2000字符的知识（建议）"
+php,moodle-local_ai_connector,enovation,https://github.com/enovation/moodle-local_ai_connector,
+php,InfraRead,aboustayyef,https://github.com/aboustayyef/InfraRead,A Self-Hosted Web Feed Reader and Sync Service Built with Laravel and VueJs
+php,ChatGPT_PHP_API,genius-kim,https://github.com/genius-kim/ChatGPT_PHP_API,php语言编写的ChatGPT API接口源码
+php,php,WaSQL,https://github.com/WaSQL/php,WaSQL - a PHP based Web Development Platform
+php,shitbot,shitware-ltd,https://github.com/shitware-ltd/shitbot,"A PHP discord bot with many useful and fun commands. Such available interactions include querying OpenAI, youtube, weather, mom and dad jokes, wikipedia search, insults, IP lookups, and more."
+php,Chat_bot,vikashkumar1111,https://github.com/vikashkumar1111/Chat_bot,"This project is related to ChatGpt API for a chat bot implemented in PHP. The API provides endpoints for sending messages to the bot, retrieving responses, and managing conversation history."
+php,markdownnotes,SSilence,https://github.com/SSilence/markdownnotes,"MarkdownNotes is a self hosted tool for organizing notes, files, lists, ideas by using markdown syntax."

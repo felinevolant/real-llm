@@ -1,0 +1,31 @@
+language,repo_name,repo_owner,repo_url,repo_description
+go,chatgpt-dingtalk,eryajf,https://github.com/eryajf/chatgpt-dingtalk,🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
+go,services,micro,https://github.com/micro/services,Real World Micro Services
+go,openai-go,rakyll,https://github.com/rakyll/openai-go,Go client libraries for OpenAI
+go,openaigo,otiai10,https://github.com/otiai10/openaigo,"OpenAI GPT3/3.5 and GPT4 ChatGPT API Client Library for Go, simple, less dependencies, and well-tested"
+go,kubectl-ai,sozercan,https://github.com/sozercan/kubectl-ai,✨ Kubectl plugin to create manifests with LLMs
+go,SydneyQt,juzeon,https://github.com/juzeon/SydneyQt,A cross-platform desktop client for the jailbroken New Bing AI Copilot (Sydney ver.) built with Go and Wails (previously based on Python and Qt).
+go,VecTextSearch,szpnygo,https://github.com/szpnygo/VecTextSearch,一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
+go,openai-proxy,geekr-dev,https://github.com/geekr-dev/openai-proxy,基于 Go 实现的 OpenAI HTTP 代理（云函数、lambda 函数、自己部署均可）
+go,wechat-gptbot,code-innovator-zyx,https://github.com/code-innovator-zyx/wechat-gptbot,微信聊天机器人，支持群聊和私信
+go,go-gpt3,PullRequestInc,https://github.com/PullRequestInc/go-gpt3,An OpenAI GPT-3 API client enabling Go/Golang programs to interact with the gpt3 APIs.
+go,anqicms,fesiong,https://github.com/fesiong/anqicms,AnQiCMS 是一款基于Go语言开发，具备高安全性、高性能和易扩展性的企业级内容管理系统。它支持多站点、多语言管理，能够满足全球化跨境运营需求。AnQiCMS 提供灵活的内容发布和模板管理功能，同时，系统内置丰富的利于SEO操作的功能，帮助企业简化运营和内容管理流程。AnQiCMS 将成为您建站的理想选择，在不断变化的市场中保持竞争力。
+go,openai-go,all-in-aigc,https://github.com/all-in-aigc/openai-go,OpenAI Go SDK.
+go,Luma-API,LumaAI-API,https://github.com/LumaAI-API/Luma-API,This is an unofficial LumaAI Dream Machine API based on Golang and Gin. It currently supports generating videos. 
+go,chat,libli,https://github.com/libli/chat,有用户管理功能的ChatGPT API透明代理后台
+go,chat-api,ai365vip,https://github.com/ai365vip/chat-api,基于One API与New API的基础上进行二次开发
+go,chromem-go,philippgille,https://github.com/philippgille/chromem-go,Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
+go,gpt-go,hanyuancheung,https://github.com/hanyuancheung/gpt-go,OpenAI ChatGPT/GPT-4/GPT-3 SDK Go Client to Interact with the GPT-4/GPT-3 APIs.
+go,PromptPal,PromptPal,https://github.com/PromptPal/PromptPal,A Prompt Manager that focuses on On-Premise and developer experience.
+go,go-chatgpt-sdk,ak9024,https://github.com/ak9024/go-chatgpt-sdk,This Library Provides Unofficial Go Client SDK for OpenAI API
+go,feedback,andrewarrow,https://github.com/andrewarrow/feedback,"golang webapp framework (rails inspired) with WASM, Effortless Migrations, Simple SQL that's NOT gorm, and Ultimate Routing Control"
+go,AiGen,SanHacks,https://github.com/SanHacks/AiGen,"Multi Model Personal Assistant Wrapper in Go: Interact with ChatGPT, Claude or Ollama Cross Platform (Speech & Image generation supported)"
+go,openai,andreyvit,https://github.com/andreyvit/openai,"Best way to use ChatGPT/GPT-3 with Go: zero dependencies, tokenizer, under 1500 LOC"
+go,clicky-chats,gptscript-ai,https://github.com/gptscript-ai/clicky-chats,Chat With Tools
+go,ubercontroller,momentum-xyz,https://github.com/momentum-xyz/ubercontroller,New controller
+go,ai-functions,aaronik,https://github.com/aaronik/ai-functions,A collection of CLI utilities for easily interacting with OpenAI AIs
+go,openai,xxjwxc,https://github.com/xxjwxc/openai,openai interface on golang
+go,openai,mengbin92,https://github.com/mengbin92/openai,use OpenAI API with golang
+go,openai,andreyvit,https://github.com/andreyvit/openai,"Best way to use ChatGPT/GPT-3 with Go: zero dependencies, tokenizer, under 1500 LOC"
+go,chatgpt-sdk,DanPlayer,https://github.com/DanPlayer/chatgpt-sdk,simple chatgpt sdk
+go,Matamata,Matamata-Animator,https://github.com/Matamata-Animator/Matamata,Automatically create lip-synced animations

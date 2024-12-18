@@ -1,0 +1,31 @@
+language,repo_name,repo_owner,repo_url,repo_description
+c#,r2ai,radareorg,https://github.com/radareorg/r2ai,local language model for radare2
+c#,programming-for-kids,jackdoe,https://github.com/jackdoe/programming-for-kids,book for parents and kids.
+c#,M5Unified_StackChan_ChatGPT,robo8080,https://github.com/robo8080/M5Unified_StackChan_ChatGPT,「ChatGPT API搭載AIｽﾀｯｸﾁｬﾝ」です。
+c#,ChatAFL,ChatAFLndss,https://github.com/ChatAFLndss/ChatAFL,Large Language Model guided Protocol Fuzzing (NDSS'24)
+c#,AmigaGPT,sacredbanana,https://github.com/sacredbanana/AmigaGPT,AmigaOS 3.2/3.9/4.1 application for chatting with ChatGPT or generating images with DALL-E
+c#,chatGPT,oiuv,https://github.com/oiuv/chatGPT,使用LPC语言开发的chatGPT应用，使用FluffOS v2019驱动
+c#,Public,TazWake,https://github.com/TazWake/Public,Collection of scripts provided for public use
+c#,LeoCPorting,leonard73,https://github.com/leonard73/LeoCPorting,"LeoCPorting is an open source C language projects which collects varouis Algorithm /Tools/Format Encode/Decode on C language proting,which is to encourage engineers use more C language that supports differents platform and cpus/dsps/gpus"
+c#,WeChat_ChatGPT,xsmvp,https://github.com/xsmvp/WeChat_ChatGPT,微信+ChatGPT自动回复机器人
+c#,SenseCAP_Indicator_ESP32,Seeed-Solution,https://github.com/Seeed-Solution/SenseCAP_Indicator_ESP32, SenseCAP Indicator SDK.
+c#,cGPTerm,Ace-Radom,https://github.com/Ace-Radom/cGPTerm,Chat with GPT in Terminal
+c#,dawn,The-OASIS-Project,https://github.com/The-OASIS-Project/dawn,Digital Assistant for Wearable Neutronics (AI Assistant)
+c#,chatgpt-client,LumitoLuma,https://github.com/LumitoLuma/chatgpt-client,A simple ChatGPT client written in C
+c#,openai.c,semissioncontrol,https://github.com/semissioncontrol/openai.c,C wrapper for accessing the OpenAI GPT-3 API
+c#,pidgin-chatgpt,EionRobb,https://github.com/EionRobb/pidgin-chatgpt,A plugin for Pidgin to send messages to virtual ChatGPT chat bots
+c#,fun007,fam007e,https://github.com/fam007e/fun007,Many fun scripts and own config dot files.
+c#,Listen-n-Spell,franyol,https://github.com/franyol/Listen-n-Spell,"Tool for english learners to practice listening using any audio thy want, Listen then spell what you heard, the application will qualify you. Use Open AI Whisper API to get a transcript from an audio, then compares it with user's input transcript. "
+c#,openai-3ds,MrHuu,https://github.com/MrHuu/openai-3ds,Open-AI playground for Nintendo 3DS
+c#,gently-communicating-home-using-Matter,jens-ajisai,https://github.com/jens-ajisai/gently-communicating-home-using-Matter,"Gently communicating home using Matter for ""Make it Matter!"" contest"
+c#,LLM_SchoolChoice,bwathomas,https://github.com/bwathomas/LLM_SchoolChoice,Code used for research on ChatGPT and school choice
+c#,mallocPlusAI,seha-bot,https://github.com/seha-bot/mallocPlusAI,Advanced AI assisted memory handling utility
+c#,Generative_kAiBoard,sumastavr,https://github.com/sumastavr/Generative_kAiBoard,Beyond Typing: An Adaptive Keyboard Prompter / Embedder for the era of Generative-AI. Internet-connected. Built-in ChatGPT.
+c#,ATom-Bot,ATom-Robot,https://github.com/ATom-Robot/ATom-Bot,A small desktop robot
+c#,gpt3,haze,https://github.com/haze/gpt3,cli tool to interact with gpt3 beta
+c#,mkhtml,MertGunduz,https://github.com/MertGunduz/mkhtml,mkhtml is an html document generator that works with gpt
+c#,lIeRC,theesfeld,https://github.com/theesfeld/lIeRC,LIERC - a fake irc chatroom populated by LLMs
+c#,mkhtml,MertGunduz,https://github.com/MertGunduz/mkhtml,mkhtml is an html document generator that works with gpt
+c#,chatgpt_ctrl_dev,wangergou2023,https://github.com/wangergou2023/chatgpt_ctrl_dev,使用chatgpt控制嵌入式设备
+c#,Improve-The-Library-of-Babel-for-A.I,Immortality-IMT,https://github.com/Immortality-IMT/Improve-The-Library-of-Babel-for-A.I,Improve the Borges Library of Babel to take into account recent advances in A.I. that can possibly organise the data to finally be useful.
+c#,openai-c,francesco-plt,https://github.com/francesco-plt/openai-c,

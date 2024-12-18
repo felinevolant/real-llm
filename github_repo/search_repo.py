@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import os
 
 # GitHub API 搜索代码的基本 URL
 base_url = "https://api.github.com/search/code"
@@ -13,11 +14,11 @@ search_query = "api.openai.com"
 # GitHub API 请求头，可以使用个人访问令牌（token）来提高请求限制
 headers = {
     "Accept": "application/vnd.github.v3+json",
-    # "Authorization": "token YOUR_GITHUB_TOKEN"  # 如果有 GitHub token
+    # "Authorization": "token "  # 如果有 GitHub token
 }
 
-# 存储结果的列表
-repo_data = []
+output_dir = "api_repo"
+os.makedirs(output_dir, exist_ok=True)
 
 # 搜索不同语言的代码
 for language in languages:
@@ -31,6 +32,8 @@ for language in languages:
         search_results = response.json()
         items = search_results.get("items", [])
 
+        # 存储当前语言的项目数据
+        repo_data = []
         for item in items:
             repo = item["repository"]
             repo_data.append({
@@ -40,13 +43,13 @@ for language in languages:
                 "repo_url": repo["html_url"],
                 "repo_description": repo.get("description", "No description"),
             })
+        # 如果该语言有结果，保存为对应的 CSV 文件
+        if repo_data:
+            df = pd.DataFrame(repo_data)
+            file_path = os.path.join(output_dir, f"openapi_{language}_repos.csv")
+            df.to_csv(file_path, index=False, encoding="utf-8")
+            print(f"Results for {language} saved to {file_path}")
+        else:
+            print(f"No results found for {language}.")
     else:
         print(f"Error fetching data for {language}: {response.status_code}")
-
-# 使用 pandas 创建 DataFrame
-df = pd.DataFrame(repo_data)
-
-# 输出结果到 CSV 文件
-df.to_csv("api_repo/openai.csv", index=False, encoding="utf-8")
-
-print("Results saved to api_repo/openai.csv")
